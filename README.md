@@ -14,10 +14,6 @@
   <em style="color:#ef4565;font-weight:bold;">Building vibrant web solutions & enjoying the journey of code!</em>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AleenaElizabath/AleenaElizabath/main/assets/gradient-bar.gif" alt="gradient bar" width="80%"/>
-</p>
-
 ---
 
 ## 🛠️ Skills & Technologies
@@ -25,15 +21,6 @@
 <p align="center">
   <!-- Bar graph for most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleenaElizabath&layout=compact&theme=radical" alt="Most Used Languages" height="180"/>
-</p>
-
-<p align="center">
-  <b>
-    <span style="color:#43c59e;">Frontend:</span> HTML5, CSS3, JavaScript, Bootstrap &nbsp;|&nbsp;
-    <span style="color:#ef4565;">Programming:</span> Java, Python, C &nbsp;|&nbsp;
-    <span style="color:#f9cb40;">Dev Tools:</span> Git, GitHub, VS Code &nbsp;|&nbsp;
-    <span style="color:#43c59e;">Web Storage:</span> LocalStorage (browser)
-  </b>
 </p>
 
 ---
